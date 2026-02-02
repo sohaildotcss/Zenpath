@@ -1,0 +1,7 @@
+# ZenPath – Student Learning & Career Progress Tracker
+
+Features:
+- Learning tracking
+- Daily coding & work logs
+- Job application tracking
+- Centralized student dashboard
